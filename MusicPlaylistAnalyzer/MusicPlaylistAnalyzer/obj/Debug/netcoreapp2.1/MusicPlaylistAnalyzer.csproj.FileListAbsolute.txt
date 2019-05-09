@@ -1,0 +1,11 @@
+/Users/evali/Desktop/Code/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.csprojAssemblyReference.cache
+/Users/evali/Desktop/Code/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.csproj.CoreCompileInputs.cache
+/Users/evali/Desktop/Code/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.AssemblyInfoInputs.cache
+/Users/evali/Desktop/Code/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.AssemblyInfo.cs
+/Users/evali/Desktop/Code/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.deps.json
+/Users/evali/Desktop/Code/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.runtimeconfig.json
+/Users/evali/Desktop/Code/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.runtimeconfig.dev.json
+/Users/evali/Desktop/Code/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.dll
+/Users/evali/Desktop/Code/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.pdb
+/Users/evali/Desktop/Code/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.dll
+/Users/evali/Desktop/Code/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Debug/netcoreapp2.1/MusicPlaylistAnalyzer.pdb
